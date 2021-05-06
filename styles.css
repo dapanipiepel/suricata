@@ -1,0 +1,22 @@
+.navbar {
+  background-color: #e83e8c;
+}
+#payments {
+  background: #17a2b8;
+  color: white;
+}
+#footer {
+  background: #e83e8c;
+  height: 145px;
+}
+#footer img {
+  height: 145px;
+}
+.imgcenter{ 
+    display: block;
+    margin:0 auto;
+}
+.card-text {
+  overflow: auto;
+  height: 118px;
+}
